@@ -1,5 +1,40 @@
 {
-	"scc_goals": [
+	"scc_goals": [{
+			"scc_goal_id": "3000009"
+		},
+		{
+			"scc_goal_id": "3000010"
+		},
+		{
+			"scc_goal_id": "3000012"
+		},
+		{
+			"scc_goal_id": "3000013"
+		},
+		{
+			"scc_goal_id": "3000014"
+		},
+		{
+			"scc_goal_id": "3000015"
+		},
+		{
+			"scc_goal_id": "3000016"
+		},
+		{
+			"scc_goal_id": "3000017"
+		},
+		{
+			"scc_goal_id": "3000018"
+		},
+		{
+			"scc_goal_id": "3000019"
+		},
+		{
+			"scc_goal_id": "3000020"
+		},
+		{
+			"scc_goal_id": "3000021"
+		},
 		{
 			"scc_goal_id": "3000022"
 		},
