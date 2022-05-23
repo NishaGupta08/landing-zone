@@ -1,6 +1,6 @@
 TF_VERSION               = "1.0"
-prefix                   = "< add user data here >"
-region                   = "< add user data here >"
+prefix                   = "slz"
+region                   = "us-south"
 tags                     = []
 vpcs                     = ["management", "workload"]
 enable_transit_gateway   = true
