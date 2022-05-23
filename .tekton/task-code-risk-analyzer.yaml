@@ -96,7 +96,7 @@ spec:
           pwd;
 
           echo "Issuing terraform plan";
-          "${TF_CMD}" plan -lock=false -out=./tfplan > /dev/null 2>&1;
+          "${TF_CMD}" plan -lock=false -out=./tfplan;
           
           cat ./tfplan;
           
